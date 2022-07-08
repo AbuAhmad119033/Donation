@@ -7,7 +7,7 @@ body{
 }
 .header{
     padding: 120px 0px;
-    background-image: url(/images/headerbg.png);
+    background-image: url(./images/headerbg.png);
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
@@ -177,7 +177,7 @@ background-color: #e6dbd7;
 }
 .statistics-container{
     padding: 5% 20%;
-    background-image: url(/images/img-5.jpg);
+    background-image: url(./images/img-5.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
